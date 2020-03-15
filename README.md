@@ -16,10 +16,3 @@ Run the make file
 ```
 C99
 ```
-
-
-## Acknowledgments
-
-* Eugene Stark 
-* CSE 320
-* Stony Brook University
